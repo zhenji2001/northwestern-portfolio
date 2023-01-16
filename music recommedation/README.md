@@ -1,0 +1,1 @@
+This is a Recommendation System. Recommendation systems recommend particular items based on previously chosen items' features. On the other hand filters items that a user might like based on the reactions of similar users. Database https://www.geeksforgeeks.org/recommendation-system-in-python/ https://www.kaggle.com/code/gspmoreira/recommender-systems-in-python-101/notebook
